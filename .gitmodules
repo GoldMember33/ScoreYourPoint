@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/Tatiwel/ScoreYourPoint.Backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/GoldMember33/ScoreYourPoint-FrontEnd.git
